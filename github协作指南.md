@@ -15,8 +15,8 @@ grammar_cjkRuby: true
 4. 然后在本地切换到新分支
 5. 运行 git remote add upstream 把项目主持人的库添加为远端库
 6. 运行 git remote update更新，SourceTree则用获取操作。
-7. 运行 git fetch upstream gh-pages 拉取我的库的更新到本地，SourceTree则用拉取操作
-8. 运行 git rebase upstream/gh-pages 将我的更新合并到你的分支
+7. 运行 git fetch upstream master 拉取我的库的更新到本地，SourceTree则用拉取操作
+8. 运行 git rebase upstream/master 将我的更新合并到你的分支
 这是一个初始化流程，只需要做一遍就行，之后请一直在develop分支进行修改。
 
 
