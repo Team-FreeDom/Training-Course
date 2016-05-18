@@ -5,9 +5,13 @@ grammar_cjkRuby: true
 ---
 
 
-欢迎进入 **{思博课}(S P O C)协作模式**，github客户端图形界面用SourceTree。
-
-### 项目文档协作示范，我这里写一个简单的流程，大家可以参考一下：
+欢迎进入 **协作分享联盟**。
+### 工具软件推荐：
+----------
+1. github本地客户端推荐用图形界面的[SourceTree](https://www.sourcetreeapp.com/)
+2. 文档撰写不要用word，用支持markdown的网络文档工具，推荐用[小书匠](http://soft.xiaoshujiang.com/)
+----------
+### 协作示范，我这里写一个简单的流程，大家可以参考一下：
 ----------
 1. 首先fork主持人的项目
 2. 把fork过去的项目也就是你的项目clone到你的本地
@@ -18,8 +22,6 @@ grammar_cjkRuby: true
 7. 运行 git fetch upstream master 拉取我的库的更新到本地，SourceTree则用拉取操作
 8. 运行 git rebase upstream/master 将我的更新合并到你的分支
 这是一个初始化流程，只需要做一遍就行，之后请一直在develop分支进行修改。
-
-
 ----------
 
 
