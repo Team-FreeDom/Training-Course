@@ -10,7 +10,9 @@ grammar_cjkRuby: true
 ----------
 1. github本地客户端推荐用图形界面的[SourceTree](https://www.sourcetreeapp.com/)
 2. 文档撰写不要用word，用支持markdown的网络文档工具，推荐用[小书匠](http://soft.xiaoshujiang.com/)
+
 ----------
+
 ### 协作示范，我这里写一个简单的流程，大家可以参考一下：
 ----------
 1. 首先fork主持人的项目
