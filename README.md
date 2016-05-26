@@ -41,6 +41,12 @@ grammar_cjkRuby: true
 
 修改之后，首先push到你的库，然后登录GitHub，在你的库的首页可以看到一个 *pull request* 按钮，点击它，填写一些说明信息，然后*提交*即可。
 
-### 四、协议
-个人免费、商业需联系项目主持人.
-还有未说明清楚的请协作完成2
+----------
+### 四、github视频使用教程
+----------
+1. [为什么要使用github](http://v.youku.com/v_show/id_XMTU4MzY2NTEwNA==.html?f=27319436&from=y1.2-3.4.1)
+2. [初识github](http://v.youku.com/v_show/id_XMTU4NDI1ODI1Ng==.html?f=27319436&from=y1.2-3.4.2)
+3. [不同行业在github上发布项目的经验](http://v.youku.com/v_show/id_XMTU4NDMwODc3Ng==.html?f=27319436&from=y1.2-3.4.3)
+4. 在github上参与项目
+5. 在github上主持和管理项目
+6. 常见操作错误
