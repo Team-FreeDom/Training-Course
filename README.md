@@ -51,5 +51,4 @@ grammar_cjkRuby: true
 4. 在github上参与项目
 5. 在github上主持和管理项目
 6. 常见操作错误
-五
 
