@@ -52,6 +52,3 @@ grammar_cjkRuby: true
 5. 在github上主持和管理项目
 6. 常见操作错误
 
-----------
-### 五、github计算机专用
-----------
